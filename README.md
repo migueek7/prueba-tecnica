@@ -1,5 +1,5 @@
 # prueba-tecnica
-Proyecto para prueba técnica hecho con PHP, JAVASCRIPT, HTML, CSS Y BOOTSTRAP
+Proyecto para prueba técnica desarrollado con PHP, JAVASCRIPT, HTML, CSS Y BOOTSTRAP
 
 1.-Comsumir API
 2.-Listar ordenes y productos 
