@@ -1,0 +1,10 @@
+.products {
+  width: 100%;
+}
+.pago {
+  padding: 0;
+}
+.pago li {
+  display: flex;
+  justify-content: space-between;
+}

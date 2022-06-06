@@ -1,0 +1,25 @@
+body {
+  font-family: "Oxygen", sans-serif;
+  background-color: #f2f2f2;
+}
+main {
+  overflow-x: hidden;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: bold !important;
+}
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  vertical-align: middle;
+}
+.card {
+  border: none;
+}
